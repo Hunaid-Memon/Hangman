@@ -102,6 +102,7 @@ h1 {
 
 .notification-container {
     background-color: rgba(224, 215, 215, 0.788);
+    color: #112031;
     border-radius: 10px 10px 0 0;
     padding: 15px 20px;
     position: absolute;
